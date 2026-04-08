@@ -6,9 +6,9 @@ Projeto avaliativo da disciplina de Projeto de Programção, I Unidade. Trata-se
 
 1. Certifique-se de ter o **Java JDK 15 ou superior** instalado, visto que é utilizado recursos recentes como o Text Blocks.
 2. Clone ou extraia este projeto.
-3. Navegue até o diretório raiz via terminal.
-4. Compile os arquivos: `javac application/Main.java model/*.java service/*.java`
-5. Execute o programa: `java application.Main`
+3. Navegue até o package `src`, localizado no diretório raiz, via terminal.
+4. Compile os arquivos: `javac Main.java model/*.java service/*.java`
+5. Execute o programa: `java Main`
 
 ## | Principais Funcionalidades
 
